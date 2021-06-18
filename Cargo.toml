@@ -1,0 +1,12 @@
+[package]
+name = "print_in_base_rs"
+description = "Print a number in a certain base. Written in Rust."
+version = "1.0.0"
+authors = ["Daniel Kurashige-Gollub <daniel@kurashige-gollub.de>"]
+edition = "2018"
+readme = "README.md"
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
